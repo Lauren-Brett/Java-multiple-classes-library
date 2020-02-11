@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="511e9672-fbdf-4e0f-b145-196e5d6e8402" name="Default Changelist" comment="" />
+    <list default="true" id="511e9672-fbdf-4e0f-b145-196e5d6e8402" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Library.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,22 +46,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LibraryTest">
+  <component name="RunManager" selected="JUnit.LibraryTest.remove_book_from_libray">
     <configuration name="BorrowerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="wek11_day2_multipleclasses_java_library" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="BorrowerTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BorrowerTest.add_book_to_reading_list_from_library" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="wek11_day2_multipleclasses_java_library" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="BorrowerTest" />
-      <option name="METHOD_NAME" value="add_book_to_reading_list_from_library" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -93,13 +85,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LibraryTest.remove_book_from_libray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wek11_day2_multipleclasses_java_library" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LibraryTest" />
+      <option name="METHOD_NAME" value="remove_book_from_libray" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LibraryTest.remove_book_from_libray" />
         <item itemvalue="JUnit.LibraryTest" />
         <item itemvalue="JUnit.LibraryTest.collectionof_of_books_starts_empty" />
         <item itemvalue="JUnit.LibraryTest.collection_empty_no_books_to_take_out" />
         <item itemvalue="JUnit.BorrowerTest" />
-        <item itemvalue="JUnit.BorrowerTest.add_book_to_reading_list_from_library" />
       </list>
     </recent_temporary>
   </component>

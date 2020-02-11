@@ -21,7 +21,11 @@ public class Library {
     }
 
     public Book removeBook() {
+        if (this.collection.isEmpty()){
+            return null;
+        }
         return this.collection.remove(0);
+
     }
 
     public int getCapacity() {
