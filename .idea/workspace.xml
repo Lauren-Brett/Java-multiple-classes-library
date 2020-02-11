@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="511e9672-fbdf-4e0f-b145-196e5d6e8402" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XfaEjuILzBsSuusdF2ze0fa3Q5" />
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.BorrowerTest.borrower_starts_with_no_books_to_read">
+    <configuration name="BorrowerTest.borrower_starts_with_no_books_to_read" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wek11_day2_multipleclasses_java_library" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BorrowerTest" />
+      <option name="METHOD_NAME" value="borrower_starts_with_no_books_to_read" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BorrowerTest.name_of_borrower" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wek11_day2_multipleclasses_java_library" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BorrowerTest" />
+      <option name="METHOD_NAME" value="name_of_borrower" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LibraryTest.add_books_to_library" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wek11_day2_multipleclasses_java_library" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LibraryTest" />
+      <option name="METHOD_NAME" value="add_books_to_library" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LibraryTest.capacity_of_books_in_library" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wek11_day2_multipleclasses_java_library" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LibraryTest" />
+      <option name="METHOD_NAME" value="capacity_of_books_in_library" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LibraryTest.collection_full_cant_add_book" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wek11_day2_multipleclasses_java_library" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LibraryTest" />
+      <option name="METHOD_NAME" value="collection_full_cant_add_book" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BorrowerTest.borrower_starts_with_no_books_to_read" />
+        <item itemvalue="JUnit.BorrowerTest.name_of_borrower" />
+        <item itemvalue="JUnit.LibraryTest.collection_full_cant_add_book" />
+        <item itemvalue="JUnit.LibraryTest.capacity_of_books_in_library" />
+        <item itemvalue="JUnit.LibraryTest.add_books_to_library" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="511e9672-fbdf-4e0f-b145-196e5d6e8402" name="Default Changelist" comment="" />
+      <created>1581439492535</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581439492535</updated>
+    </task>
+    <servers />
+  </component>
+</project>
