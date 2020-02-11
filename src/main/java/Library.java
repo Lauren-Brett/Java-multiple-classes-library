@@ -26,6 +26,8 @@ public class Library {
         return this.capacity;
     }
 
-
-
+    public boolean isEmpty() {
+        if (this.collection.isEmpty());
+            return true;
+    }
 }

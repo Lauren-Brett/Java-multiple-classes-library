@@ -21,13 +21,12 @@ public class LibraryTest {
     }
 
     @Test
-    public void collection_starts_empty(){
+    public void collectionof_of_books_starts_empty(){
         assertEquals(0, library.bookCount());
     }
 
-
     @Test
-    public void add_book_to_library(){
+    public void add_book_to_library_collection(){
         library.addBook(book);
         library.addBook(book1);
         assertEquals(2, library.bookCount());
@@ -42,12 +41,12 @@ public class LibraryTest {
     }
 
     @Test
-    public void capacity_of_books_in_library(){
+    public void capacity_of_books_in_library_collection(){
         assertEquals(3, library.getCapacity());
     }
 
     @Test
-    public void collection_full_cant_add_book(){
+    public void collection_full_can_not_add_book(){
         library.addBook(book);
         library.addBook(book1);
         library.addBook(book2);
@@ -55,8 +54,10 @@ public class LibraryTest {
         assertEquals(3, library.getCapacity());
     }
 
-
-
-
+    @Test
+    public void collection_empty_no_books_to_take_out(){
+//        library.isEmpty();
+        assertEquals(true, library.isEmpty());
+    }
 
 }

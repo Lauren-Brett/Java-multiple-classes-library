@@ -13,7 +13,6 @@ public class BookTest {
     public void before() {
         book1 = new Book("Design Ideas", "Me", "Personal");
         book2 = new Book("Coding", "them", "Learn");
-        //library.addBook()
     }
 
     @Test
