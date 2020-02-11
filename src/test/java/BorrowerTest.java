@@ -29,8 +29,10 @@ public class BorrowerTest {
     @Test
     public void add_book_to_reading_list_from_library(){
         library.addBook(book);
+        library.addBook(book);
         borrower.borrowBook(library);
-        assertEquals(1, borrower.readingListCount());
+        borrower.borrowBook(library);
+        assertEquals(2, borrower.readingListCount());
         assertEquals(0, library.bookCount());
     }
 

@@ -25,7 +25,6 @@ public class Library {
             return null;
         }
         return this.collection.remove(0);
-
     }
 
     public int getCapacity() {
