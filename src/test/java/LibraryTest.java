@@ -27,10 +27,18 @@ public class LibraryTest {
 
 
     @Test
-    public void add_books_to_library(){
+    public void add_book_to_library(){
         library.addBook(book);
         library.addBook(book1);
         assertEquals(2, library.bookCount());
+    }
+
+    @Test
+    public void remove_book_from_libray(){
+        library.addBook(book);
+        library.addBook(book1);
+        library.removeBook();
+        assertEquals(1, library.bookCount());
     }
 
     @Test
