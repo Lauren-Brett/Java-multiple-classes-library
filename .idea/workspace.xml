@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="511e9672-fbdf-4e0f-b145-196e5d6e8402" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Library.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/BookTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BookTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/LibraryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LibraryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Library.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/BookTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/BookTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LibraryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LibraryTest.class" afterDir="false" />
-    </list>
+    <list default="true" id="511e9672-fbdf-4e0f-b145-196e5d6e8402" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +44,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LibraryTest.collection_empty_no_books_to_take_out">
+  <component name="RunManager" selected="JUnit.LibraryTest">
     <configuration name="BorrowerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="wek11_day2_multipleclasses_java_library" />
       <option name="PACKAGE_NAME" value="" />
@@ -72,12 +64,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BorrowerTest.borrow_book_from_library" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LibraryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="wek11_day2_multipleclasses_java_library" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="BorrowerTest" />
-      <option name="METHOD_NAME" value="borrow_book_from_library" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="LibraryTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -92,11 +83,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LibraryTest.remove_book_from_libray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LibraryTest.collectionof_of_books_starts_empty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="wek11_day2_multipleclasses_java_library" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="LibraryTest" />
-      <option name="METHOD_NAME" value="remove_book_from_libray" />
+      <option name="METHOD_NAME" value="collectionof_of_books_starts_empty" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LibraryTest" />
+        <item itemvalue="JUnit.LibraryTest.collectionof_of_books_starts_empty" />
         <item itemvalue="JUnit.LibraryTest.collection_empty_no_books_to_take_out" />
         <item itemvalue="JUnit.BorrowerTest" />
         <item itemvalue="JUnit.BorrowerTest.add_book_to_reading_list_from_library" />
-        <item itemvalue="JUnit.LibraryTest.remove_book_from_libray" />
-        <item itemvalue="JUnit.BorrowerTest.borrow_book_from_library" />
       </list>
     </recent_temporary>
   </component>
